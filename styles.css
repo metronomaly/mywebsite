@@ -1,0 +1,55 @@
+/*body {
+	border:15px solid #bdc3c7;
+}
+	
+#firstdate {
+	font-family: Source Sans Pro;
+	color: #3498db;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px;
+	
+}
+	
+#seconddate {
+	font-family: Source Sans Pro;
+	color: #3498db;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px;
+	/*background-color:yellow; */
+	margin-top: 20px;
+}*/
+
+
+h2{
+	padding:10px;
+	margin-top: -20px;
+
+}
+
+p{
+	padding:5px;
+	font-family: Source Sans Pro;
+	font-size:12px;
+	
+}
+/*THERE ARE 3 DIFFERENT PARTS TO BOX MODEL, margin, border, padding*/
+.first{
+	/*background: pink;*/
+	margin:-20px 10px;	/*top and bottom 5px; left and right 10px;*/
+	border-left: 6px solid  #bdc3c7;
+	padding-right:5px;
+}
+.second{
+	/*background: yellow;*/
+	margin:30px 10px;
+}
+.third{
+	/*background: green;*/
+	margin:-20px 10px;
+	border-bottom: 1px solid #bdc3c7;
+	padding-bottom: -20px;
+}
+
+
